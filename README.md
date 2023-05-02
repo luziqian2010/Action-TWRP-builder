@@ -118,3 +118,5 @@ cat ssh_host_ed25519_key
 #### TeamWin Recovery Project: https://github.com/minimal-manifest-twrp
 #### OrangeFox Recovery Project: https://gitlab.com/OrangeFox
 #### SKYHAWK Recovery Project: https://github.com/SHRP/platform_manifest_twrp_omni
+
+![Alt](https://repobeats.axiom.co/api/embed/775def677c1ec4f2d739cc66d6d9d42687a41e02.svg "Repobeats analytics image")
