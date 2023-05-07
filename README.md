@@ -1,6 +1,6 @@
 # 使用Github Action来编译恢复
 
-- 支持 ~~OFRP~~, SHRP, TWRP 的编译和生产
+- 支持SHRP, TWRP 的编译和生产
 
 ---
 
