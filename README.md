@@ -9,6 +9,8 @@
 - 莫莫汉化 README.md
 ---
 
+## OrangeFox is [here](https://github.com/azwhikaru/Action-OFRP-Builder)
+
 ## 发布说明
 ```
 = 2022/10/28
